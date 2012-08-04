@@ -1,0 +1,26 @@
+---
+comments: true
+date: 2009-09-11 14:30:07
+layout: post
+slug: swfaddress-apache-mod_rewrite-php-seo-implementation
+title: Pretty Pleased with the SWFAddress Apache, mod_rewrite, and PHP SEO Implementation
+wordpress_id: 162
+categories:
+- actionscript 3
+- javascript
+- server side scripting
+---
+
+The latest project I've been working on at Rokkan has been umbro.com. When the project first came to us there was quite a bit of discussion over what technology to use, specifically HTML vs. Flash. The client, naturally, was concerned about SEO but also wanted a nice "rich" experience. Sure, there's been a little bit of talk lately over the fact that Google can now index certain types of content with regards to SWF files and the files which they load, but its still sketchy at best. Not to mention you have to pay close attention to how you setup your text fields 'n such. Hell, when is the last time you searched on Google for something significant and got a result that takes you to a specific page of a Flash site/app? I honestly can't think of that every happening to me.
+
+
+
+At any rate, after much debate we decided that the experience was a bit more important to us so we would focus on the Flash front end. Regardless of that decision, we also would create a text-only/HTML/SEO friendly version of the site for search engines to crawl using [SWFAddress's SEO setup](http://www.asual.com/swfaddress/) that uses a little special JavaScript, Apache's mod_rewrite and PHP. If you haven't checked this out yet, I highly recommend it.
+
+If you're too lazy to go check out the SWFAddress site, I'll summarize what it does for you. Essentially, with the combination of the aforementioned technologies, SWFAddress now ships with a simple rule-based URL rewriting engine to handle entry URLs that do not contain the SWFAddress hash mark (#). This allows us to display equivalent content under the same folder structure that the Flash site/app uses for users that do not have both JavaScript and the Flash Player. For example, if you have JavaScript enabled and the Flash Player installed and go to [www.umbro.com/en_UK/about/](http://www.umbro.com/en_UK/about/) you will be redirected to the SWFAddress/Flash friendly URL [www.umbro.com/en_UK/#/about/](http://www.umbro.com/en_UK/#/about/). If you don't have JavaScript enabled or the Flash Player installed at all, mod_rewrite sends the folder path as a string to a PHP script. In this script you setup rules that determine what HTML content to display. Thus, you can display equivalent textual/semantic/SEO friendly content to anything that doesn't use JavaScript and Flash, eg: search engine spiders.
+
+The only drawback I can see with this implementation at this point is the way in which users share URLs with each other. I'm guessing most users are more apt to simply copy and paste the URL from their browser's address bar than anything else. In this case they're grabbing the SWFAddress/Flash friendly URL with the hash (#) mark in it. Unfortunately if this is the URL that gets posted around the internet and shared via blogs, twitter, facebook, etc, then these pages aren't really going to increase in page rank all that much. However, in order to facilitate the sharing of the non-hash-marked URL, we've placed a "Share This" tool on as many pages within the Flash app as possible. This button uses the link sharing API's for a few social networks and passes in the SEO friendly URLs (without the hash mark) instead of whats in the address bar.
+
+One thing I will say if you do decide to use this approach is to be aware of the amount of extra work that it will entail. You're essentially creating two sites, one in HTML and one in Flash. This can become rather time consuming depending on the scope fo the project and the amount of content. In the case of umbro.com we didn't really have that many pages to duplicate but we did have four markets/languages. On top of this, we initially created very bare-bones and unstyled HTML content that we knew would get indexed as long as it was being spidered. However, once a few people checked out umbro.com on their mobile devices and noticed that the "mobile" version was different than the version they saw on the desktops or laptops, those people suddenly thought that they were indeed seeing THE "mobile" version, not the version that anyone or anything that doesn't have JavaScript and Flash will see. So suddenly we had to pretty up that content with some nice images and CSS styles which required a bit more work than we had anticipated from the start.
+
+I'm pretty happy with how things turned out with umbro.com, if you do some obvious Google searches such as '[about umbro](http://www.google.com/search?rlz=1C1GGLS_enUS291US304&sourceid=chrome&ie=UTF-8&q=about+umbro)' or '[where to buy umbro](http://www.google.com/search?hl=en&rlz=1C1GGLS_enUS291US304&q=where+to+buy+umbro&aq=f&oq=&aqi=g10)' you can see that pages from umbro.com are appearing pretty high in the results right now and thats honestly good enough for me at this point as I've never built an entire site in Flash and had any sort of results show up in Google before. I'm also pretty curious as to who else out there has implemented this with good results, so if you or any other sites you know of that have gone with this solution please leave a comment and URL. Thanks in advance.
