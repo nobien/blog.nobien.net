@@ -6,7 +6,7 @@ slug: crummy-freelancers-coding-guidelines-and-actionscript-libraries
 title: Crummy Freelancers, Coding Guidelines and Actionscript Libraries
 wordpress_id: 14
 categories:
-- actionscript 2
+- actionscript-2
 - flash
 ---
 

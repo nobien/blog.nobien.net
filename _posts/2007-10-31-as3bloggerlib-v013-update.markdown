@@ -6,7 +6,7 @@ slug: as3bloggerlib-v013-update
 title: AS3BloggerLib v0.1.3 Update
 wordpress_id: 40
 categories:
-- actionscript 3
+- actionscript-3
 - air
 - flex
 ---

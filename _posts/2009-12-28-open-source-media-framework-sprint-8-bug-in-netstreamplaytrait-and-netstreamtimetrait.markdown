@@ -6,7 +6,7 @@ slug: open-source-media-framework-sprint-8-bug-in-netstreamplaytrait-and-netstre
 title: Open Source Media Framework (Sprint 8) Bug in NetStreamPlayTrait and NetStreamTimeTrait?
 wordpress_id: 184
 categories:
-- actionscript 3
+- actionscript-3
 - air
 - flash
 - flex

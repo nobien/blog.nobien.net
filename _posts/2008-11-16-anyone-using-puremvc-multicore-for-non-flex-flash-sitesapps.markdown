@@ -6,7 +6,7 @@ slug: anyone-using-puremvc-multicore-for-non-flex-flash-sitesapps
 title: Anyone Using PureMVC Multicore For Non-Flex Flash Sites/Apps?
 wordpress_id: 89
 categories:
-- actionscript 3
+- actionscript-3
 - design patterns
 - frameworks
 ---

@@ -6,8 +6,8 @@ slug: swfaddress-21-swfobject-2-work-together
 title: SWFAddress 2.1 & SWFObject 2 Work Together.
 wordpress_id: 56
 categories:
-- actionscript 2
-- actionscript 3
+- actionscript-2
+- actionscript-3
 - flash
 - javascript
 ---

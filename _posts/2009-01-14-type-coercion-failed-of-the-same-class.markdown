@@ -6,7 +6,7 @@ slug: type-coercion-failed-of-the-same-class
 title: Type Coercion Failed of the Same Class?
 wordpress_id: 112
 categories:
-- actionscript 3
+- actionscript-3
 - flash
 ---
 

@@ -6,7 +6,7 @@ slug: practicing-continuous-integration-on-flash-projects-integration-server-set
 title: 'Practicing Continuous Integration on Flash Projects : Integration Server Setup'
 wordpress_id: 290
 categories:
-- actionscript 3
+- actionscript-3
 - continuous integration
 - flash
 - flex

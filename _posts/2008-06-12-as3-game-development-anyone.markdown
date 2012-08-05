@@ -6,7 +6,7 @@ slug: as3-game-development-anyone
 title: AS3 Game Development Anyone?
 wordpress_id: 68
 categories:
-- actionscript 3
+- actionscript-3
 - video games
 ---
 

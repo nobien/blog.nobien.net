@@ -7,7 +7,7 @@ title: Papervision3D Beta 1 Cube.destroy() bug?
 wordpress_id: 85
 categories:
 - 3d
-- actionscript 3
+- actionscript-3
 - flash
 ---
 

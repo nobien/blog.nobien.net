@@ -6,7 +6,7 @@ slug: air-create-modify-reuse
 title: AIR Create-Modify-Reuse
 wordpress_id: 67
 categories:
-- actionscript 3
+- actionscript-3
 - air
 - books
 - flex

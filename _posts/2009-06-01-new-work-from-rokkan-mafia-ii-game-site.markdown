@@ -6,7 +6,7 @@ slug: new-work-from-rokkan-mafia-ii-game-site
 title: 'New work from Rokkan: Mafia II Game Site'
 wordpress_id: 147
 categories:
-- actionscript 3
+- actionscript-3
 - flash
 - video games
 ---

@@ -7,7 +7,7 @@ title: 'Proof-Of-Concept: A Simple UI for Running Ant Targets Built with Adobe A
   2.0'
 wordpress_id: 236
 categories:
-- actionscript 3
+- actionscript-3
 - air
 - flash
 - flex

@@ -6,7 +6,7 @@ slug: as3-stopping-all-timeline-animations
 title: 'AS3: Stopping All Timeline Animations'
 wordpress_id: 119
 categories:
-- actionscript 3
+- actionscript-3
 - snippets
 ---
 

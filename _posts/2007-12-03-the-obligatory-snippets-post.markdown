@@ -6,7 +6,7 @@ slug: the-obligatory-snippets-post
 title: The Obligatory Snippets Post
 wordpress_id: 45
 categories:
-- actionscript 3
+- actionscript-3
 - snippets
 ---
 

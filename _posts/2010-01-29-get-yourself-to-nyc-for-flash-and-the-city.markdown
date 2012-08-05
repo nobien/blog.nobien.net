@@ -6,7 +6,7 @@ slug: get-yourself-to-nyc-for-flash-and-the-city
 title: Get yourself to NYC for Flash and the City
 wordpress_id: 195
 categories:
-- actionscript 3
+- actionscript-3
 - air
 - conferences
 - flash

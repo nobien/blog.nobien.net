@@ -6,7 +6,7 @@ slug: as3-bufferingindicator-class
 title: AS3 BufferingIndicator Class
 wordpress_id: 51
 categories:
-- actionscript 3
+- actionscript-3
 - flash
 - flex
 ---

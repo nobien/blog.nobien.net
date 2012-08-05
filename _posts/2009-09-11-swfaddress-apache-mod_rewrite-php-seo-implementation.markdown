@@ -6,7 +6,7 @@ slug: swfaddress-apache-mod_rewrite-php-seo-implementation
 title: Pretty Pleased with the SWFAddress Apache, mod_rewrite, and PHP SEO Implementation
 wordpress_id: 162
 categories:
-- actionscript 3
+- actionscript-3
 - javascript
 - server side scripting
 ---

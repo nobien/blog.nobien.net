@@ -6,7 +6,7 @@ slug: flash-remoting-data-managment
 title: Flash Remoting Data Management
 wordpress_id: 79
 categories:
-- actionscript 3
+- actionscript-3
 ---
 
 I'm currently involved in a project at [Almighty](http://www.almightyboston.com) that involves working with more than ... well .. just me. We've recently come up to the question of data management through Flash Remoting. We're using [Danny Patterson's AS3 Lightweight Remoting Framework](http://osflash.org/as3lrf) (because it's pretty awesome), which solves the question of how to interact with AMFPHP, but now the question turns to "What do you do with the data once it is returned?"  

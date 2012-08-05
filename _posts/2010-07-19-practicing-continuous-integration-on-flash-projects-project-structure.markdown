@@ -6,7 +6,7 @@ slug: practicing-continuous-integration-on-flash-projects-project-structure
 title: 'Practicing Continuous Integration on Flash Projects : Project Structure'
 wordpress_id: 282
 categories:
-- actionscript 3
+- actionscript-3
 - continuous integration
 - flash
 - flex

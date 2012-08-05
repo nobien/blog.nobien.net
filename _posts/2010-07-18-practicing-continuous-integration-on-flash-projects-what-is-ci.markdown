@@ -6,7 +6,7 @@ slug: practicing-continuous-integration-on-flash-projects-what-is-ci
 title: 'Practicing Continuous Integration on Flash Projects : What Is CI?'
 wordpress_id: 258
 categories:
-- actionscript 3
+- actionscript-3
 - continuous integration
 - flash
 - flex

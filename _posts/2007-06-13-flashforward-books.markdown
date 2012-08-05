@@ -6,8 +6,8 @@ slug: flashforward-books
 title: FlashForward & Books
 wordpress_id: 22
 categories:
-- actionscript 2
-- actionscript 3
+- actionscript-2
+- actionscript-3
 - design
 - flash
 - flex

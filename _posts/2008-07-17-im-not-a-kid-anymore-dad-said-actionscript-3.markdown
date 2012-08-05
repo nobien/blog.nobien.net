@@ -6,7 +6,7 @@ slug: im-not-a-kid-anymore-dad-said-actionscript-3
 title: '"I''m not a kid anymore, Dad!" said ActionScript 3.'
 wordpress_id: 70
 categories:
-- actionscript 3
+- actionscript-3
 - flash
 - rants
 ---

@@ -6,7 +6,7 @@ slug: why-no-love-for-the-monostate-pattern-in-actionscript-3
 title: Why No Love for the Monostate Pattern in ActionScript 3?
 wordpress_id: 96
 categories:
-- actionscript 3
+- actionscript-3
 - design patterns
 ---
 

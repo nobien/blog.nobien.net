@@ -6,7 +6,7 @@ slug: capturing-bitmapdata-of-a-single-blurred-display-object-is-annoying
 title: Capturing BitmapData of a Single Blurred Display Object is Annoying
 wordpress_id: 219
 categories:
-- actionscript 3
+- actionscript-3
 - flash
 ---
 

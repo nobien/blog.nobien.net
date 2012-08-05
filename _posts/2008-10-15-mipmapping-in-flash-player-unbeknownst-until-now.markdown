@@ -6,7 +6,7 @@ slug: mipmapping-in-flash-player-unbeknownst-until-now
 title: Mipmapping in Flash Player, Unbeknownst Until Now!
 wordpress_id: 84
 categories:
-- actionscript 3
+- actionscript-3
 - flash
 ---
 

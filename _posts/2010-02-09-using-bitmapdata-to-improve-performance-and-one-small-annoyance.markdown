@@ -6,7 +6,7 @@ slug: using-bitmapdata-to-improve-performance-and-one-small-annoyance
 title: Using BitmapData to Improve Performance (And One Small Annoyance)
 wordpress_id: 199
 categories:
-- actionscript 3
+- actionscript-3
 - flash
 ---
 

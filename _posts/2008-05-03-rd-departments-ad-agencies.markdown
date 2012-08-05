@@ -6,7 +6,7 @@ slug: rd-departments-ad-agencies
 title: R&D Departments & AD Agencies.
 wordpress_id: 59
 categories:
-- agency life
+- agency-life
 - general
 - rants
 ---

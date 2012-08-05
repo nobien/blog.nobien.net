@@ -6,7 +6,7 @@ slug: my-new-project-as3bloggerlib
 title: 'My new project: AS3BloggerLib'
 wordpress_id: 31
 categories:
-- actionscript 3
+- actionscript-3
 - air
 - flex
 ---

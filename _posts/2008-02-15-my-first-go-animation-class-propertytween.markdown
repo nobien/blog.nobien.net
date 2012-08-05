@@ -6,7 +6,7 @@ slug: my-first-go-animation-class-propertytween
 title: 'My First Go Animation Class: PropertyTween'
 wordpress_id: 50
 categories:
-- actionscript 3
+- actionscript-3
 ---
 
 So I finally decided to have a go (no pun intended) with Moses new [Go tween framework](http://www.goasap.org). I've only scratched the surface, but its pretty cool how easy it was to create a simple tween class that can tween the properties of any object.

@@ -6,7 +6,7 @@ slug: runtime-font-loading-and-static-textfield-conflicts
 title: Runtime Font Loading and Static TextField Conflicts
 wordpress_id: 150
 categories:
-- actionscript 3
+- actionscript-3
 - flash
 ---
 

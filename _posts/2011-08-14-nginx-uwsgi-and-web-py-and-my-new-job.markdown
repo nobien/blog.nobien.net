@@ -15,4 +15,4 @@ One of the things I wanted to do this weekend was to figure out how to run a web
 
 First thing to note is that I did this all on a micro instance of Ubuntu 11.04 on EC2 ([ami-1aad5273](https://console.aws.amazon.com/ec2/home?region=us-east-1#launchAmi=ami-1aad5273)). Second, I installed the lastest versions of nginx and uWSGI from source. The following gist lists examples of the files I used to get this running. I should note that the config and .sh files are intended for running one server and one web.py application.
 
-
+<script src="https://gist.github.com/1145592.js"> </script>

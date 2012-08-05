@@ -6,8 +6,8 @@ slug: avm1-content-in-as3
 title: AVM1 Content in AS3?
 wordpress_id: 38
 categories:
-- actionscript 2
-- actionscript 3
+- actionscript-2
+- actionscript-3
 ---
 
 So this is a pseudo rant/question for the masses.  

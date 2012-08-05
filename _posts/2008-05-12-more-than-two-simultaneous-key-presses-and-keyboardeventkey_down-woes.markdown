@@ -6,7 +6,7 @@ slug: more-than-two-simultaneous-key-presses-and-keyboardeventkey_down-woes
 title: More Than Two Simultaneous Key Presses and KeyboardEvent.KEY_DOWN Woes
 wordpress_id: 62
 categories:
-- actionscript 3
+- actionscript-3
 - flash
 ---
 

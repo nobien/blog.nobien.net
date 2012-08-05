@@ -6,7 +6,7 @@ slug: practicing-continuous-integration-on-flash-projects-automation
 title: 'Practicing Continuous Integration on Flash Projects : Automation'
 wordpress_id: 278
 categories:
-- actionscript 3
+- actionscript-3
 - continuous integration
 - flash
 - flex

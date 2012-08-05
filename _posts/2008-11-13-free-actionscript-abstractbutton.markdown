@@ -6,7 +6,7 @@ slug: free-actionscript-abstractbutton
 title: Free ActionScript! AbstractButton
 wordpress_id: 86
 categories:
-- actionscript 3
+- actionscript-3
 - flash
 ---
 

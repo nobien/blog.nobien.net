@@ -6,7 +6,7 @@ slug: practicing-continuous-integration-on-flash-projects-using-hudson
 title: 'Practicing Continuous Integration on Flash Projects : Using Hudson'
 wordpress_id: 304
 categories:
-- actionscript 3
+- actionscript-3
 - continuous integration
 - flash
 - flex

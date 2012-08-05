@@ -6,7 +6,7 @@ slug: new-flash-community-developments-robotlegs-and-signals
 title: 'New Flash Community Developments: Robotlegs and Signals'
 wordpress_id: 178
 categories:
-- actionscript 3
+- actionscript-3
 - air
 - design patterns
 - flash

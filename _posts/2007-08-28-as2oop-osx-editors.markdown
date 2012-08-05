@@ -6,7 +6,7 @@ slug: as2oop-osx-editors
 title: AS2/OOP OSX Editors?
 wordpress_id: 30
 categories:
-- actionscript 2
+- actionscript-2
 ---
 
 It's been a while since I've written a post on here .. mostly because I just changed jobs.  I was at Schematic in Boston before Monday.  I'm at [Almighty ](http://www.almightyboston.com)(also in Boston) now.  Almighty seems like an awesome fit.  Everyone there is pretty cool and they do excellent work.  I _could_ go into more detail about everything like why Almighty is better than Schematic, etc ... but that's for another discussion.

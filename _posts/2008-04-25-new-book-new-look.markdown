@@ -6,7 +6,7 @@ slug: new-book-new-look
 title: New Book, New Look.
 wordpress_id: 55
 categories:
-- actionscript 3
+- actionscript-3
 - air
 - books
 - flex

@@ -6,7 +6,7 @@ slug: duplicate-a-displayobject-as-a-bitmap
 title: Duplicate a DisplayObject as a BitMap
 wordpress_id: 63
 categories:
-- actionscript 3
+- actionscript-3
 - flash
 - flex
 - snippets

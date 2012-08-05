@@ -6,7 +6,7 @@ slug: as3-loader-class-layer-views
 title: 'AS3: Loader Class & layer views.'
 wordpress_id: 44
 categories:
-- actionscript 3
+- actionscript-3
 ---
 
 I ran into this weird problem while working on something for Almighty.  I've done a small amount of research on the topic and found nothing.  I apologize if the answer is blatantly obvious ... but I'm stumped.

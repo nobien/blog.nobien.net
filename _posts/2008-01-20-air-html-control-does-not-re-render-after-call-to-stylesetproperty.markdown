@@ -6,7 +6,7 @@ slug: air-html-control-does-not-re-render-after-call-to-stylesetproperty
 title: AIR HTML control does not re-render after call to style.setProperty()?
 wordpress_id: 46
 categories:
-- actionscript 3
+- actionscript-3
 - air
 - flex
 ---
