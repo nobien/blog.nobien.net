@@ -17,6 +17,7 @@ I've really been getting into [Apache Ant](http://ant.apache.org/) lately. I re
 
 It took me a while to figure things out entirely but in the end I'm happy to have learned how to use [flash.desktop.NativeProcess](http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/flash/desktop/NativeProcess.html). Unfortunately, in order to realize my idea faster, I ignored the fact that the application would really depend on a user's system. For instance, I have Ant installed in such a way that its available as a system command so I can run it from the command line like any old DOS command. I know not everyone is setup like this andwould require knowing where Ant is installed on a user's system. Additionally, Ant doesn't come with a good old fashioned .exe file for Windows so I invoked Ant via C:\windows\system32\cmd.exe. Here's some pseudo code that comes straight from my application...
 
+<script src="http://gist.github.com/441446.js?file=PseudoAntProcess.as"></script>
 
 
 Another (little) thing was that Adobe isn't very clear about the fact that you need to package your application in a native installer in order to use the 'extendedDesktop' profile.  Took me a while to figure it out, but the good news its pretty darn easy to package a native installer from a .air file.
